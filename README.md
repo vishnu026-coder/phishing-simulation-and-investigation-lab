@@ -11,7 +11,7 @@
 - [About the Author](#about-the-author)
 - [Contact](#contact)
 
-=========================================================================================================================================================================
+============================================================
 
 # Project Highlights
 
@@ -31,19 +31,19 @@
 
 > Deployed the platform using Vercel to provide a live interactive learning environment.
 
-=========================================================================================================================================================================
+============================================================
 
 # Project Overview: 
 This project is an educational platform designed to demonstrate how social engineering and phishing attacks works practically. The lab helps users understand the psychological techniques attackers use and teaches how such attacks can be detected and prevented. The platform includes both phishing simulation and Phishing Detection Summary module designed to help users understand how real attacks works and how Security Operations Center (SOC) analysts investigate suspicious emails, URLs, and domains. And Also provides a structured analysis guide with 25+ detection tools and step-by-step investigation techniques.
 Thid platform simulates phishing scenarios in a controlled environment to improve cybersecurity awareness and SOC investigation skills.
 
-=========================================================================================================================================================================
+============================================================
 
 # Live Demo
 //website access: https://practicalabyxoin.vercel.app     
 //demo credential: username: @The_Minimum | Psd: @The_MinimuM 
 
-# Telegram-Based User Verification 
+> Telegram-Based User Verification: 
 The platform integrates the Telegram Bot API to verify real users before allowing access to the lab.
 
 > Workflow:
@@ -60,7 +60,7 @@ No personal data or credentials are permanently stored in the platform.
 The verification system is used only to validate legitimate access to the lab.
 This approach keeps the platform simple, privacy-focused, and suitable for an educational cybersecurity lab environment.
 
-=========================================================================================================================================================================
+============================================================
 
 # Architecture Overview
 
@@ -98,7 +98,7 @@ This module is designed to help users:
 - Identify phishing indicators and red flags
 - The goal is to provide a practical reference guide for phishing detection and analysis.
 
-=========================================================================================================================================================================
+============================================================
 
 # Phishing attack simualtion understanding
 
@@ -110,7 +110,7 @@ Demonstrates common manipulation techniques used in phishing attacks:
 - Reward
 - FOMO (Fear of Missing Out)
 - Fake Support Requests
-# Users can explore how attackers craft messages using these psychological triggers.
+- Users can explore how attackers craft messages using these psychological triggers.
 
 2. AI Phishing Message Generator
 The platform includes an AI tool that demonstrates how phishing messages can be generated based on specific social engineering techniques.
@@ -119,7 +119,7 @@ Users can:
 2.Generate a sample phishing message
 3.Customize the message
 4.Learn why the message may trick users
-# This feature is designed for awareness training purposes only.
+5.This feature is designed for awareness training purposes only.
 
 3. Hook and Message Combination System
 Users can select:
@@ -127,7 +127,7 @@ Users can select:
 2.Message template
 3.Hook scenario
 4.The system demonstrates how attackers combine these elements to craft convincing phishing messages.
-# This helps users understand how phishing campaigns are structured.
+5.This helps users understand how phishing campaigns are structured.
 
 4. Social Media Simulation Pages
 The lab includes simulated login pages to demonstrate how attackers replicate popular platforms.
@@ -141,7 +141,7 @@ Examples include:
 - Snapchat
 - Spotify
 - and other social platforms
-# These pages are visual simulations only used to teach how phishing websites look.
+- These pages are visual simulations only used to teach how phishing websites look.
 
 5. AI Phishing Message Awareness Tool
 The platform integrates the OpenAI GPT API to demonstrate how attackers may use AI to generate convincing phishing messages.
@@ -150,7 +150,7 @@ Users can:
 - Generate example phishing messages
 - Customize message structure using Ai
 - Understand how AI can be misused to craft suspicious emails
-# The feature helps users recognize AI-generated phishing attempts and understand the risks of automated social engineering.
+- The feature helps users recognize AI-generated phishing attempts and understand the risks of automated social engineering.
 
 6. SMTP Phishing Simulation
 The lab includes a simulated SMTP demonstration to explain how attackers may abuse email infrastructure to distribute phishing messages.
@@ -159,9 +159,9 @@ The module demonstrates:
 - How attackers may attempt to disguise email sources
 - Why SMTP misuse is a common phishing technique
 - The purpose of this module is to educate users about how phishing emails are distributed and how to detect them.
-# No real phishing campaigns are executed in the demo environment.
+- No real phishing campaigns are executed in the demo environment.
 
-=========================================================================================================================================================================
+============================================================
 
 # Phishing Detection Guide & Analysis Toolkit
 
@@ -172,7 +172,7 @@ The module demonstrates:
 > IP & Domain Intelligence – Trace domain reputation and origin
 > HTTP Headers & SSL Validation – Verify website authenticity
 > IOC & Red Flags Detection – Identify indicators of compromise
-# These categories help users understand how phishing attacks can be identified and analyzed systematically.
+> These categories help users understand how phishing attacks can be identified and analyzed systematically.
 
 2. Recommended Phishing Analysis Tools
 The platform includes direct links to commonly used investigation tools that analysts use during phishing analysis.
@@ -182,7 +182,7 @@ The platform includes direct links to commonly used investigation tools that ana
 - Google Safe Browsing – Check if URLs are flagged as malicious
 - PhishTank – Community-verified phishing reports
 - ANY.RUN – Dynamic analysis environment
-# More than 25 investigation tools are included to help users explore different phishing detection techniques
+- More than 25 investigation tools are included to help users explore different phishing detection techniques
 
 3. Detection Checklist (Do & Don't Guide)
 Each category includes a structured checklist to help users quickly identify suspicious behavior.
@@ -204,7 +204,7 @@ Don't:
 ✔ login.facebook.com
 ❌ facebook.login.evil.com
 
-=========================================================================================================================================================================
+============================================================
 
 # Security & Ethical Disclaimer
 > This project was created strictly for cybersecurity education and social engineering awareness
@@ -216,32 +216,32 @@ Don't:
 - Educational demonstrations
 - Features such as message generation, SMTP simulation, and phishing page examples are implemented only to help users recognize and defend against real-world phishing attacks.
 
-# Responsible Use Notice:
-> Users of this platform are expected to use it responsibly and ethically.
-> The knowledge provided in this lab should only be used to:
-> Improve cybersecurity awareness
-> Understand social engineering techniques
-> Strengthen defenses against phishing attacks
-> Any misuse of the concepts demonstrated in this project is strictly discouraged.
+> Responsible Use Notice:
+- Users of this platform are expected to use it responsibly and ethically.
+- The knowledge provided in this lab should only be used to:
+- Improve cybersecurity awareness
+- Understand social engineering techniques
+- Strengthen defenses against phishing attacks
+- Any misuse of the concepts demonstrated in this project is strictly discouraged.
 
-# Final Note
+> Final Note
 < Understanding how attackers operate is a critical step in building stronger security defenses >
 < This project aims to help students, cybersecurity enthusiasts, and professionals learn how social engineering attacks are structured and how they can be identified and prevented > 
 
-=========================================================================================================================================================================
+============================================================
 
 # About the Author
 This project was developed by Vishnu Biradar, a cybersecurity enthusiast interested in understanding how cyber attacks work and how they can be detected and prevented.
 
-My focus areas include:
+- My focus areas include:
 > Social Engineering Analysis
 > Phishing Detection
 > Security Awareness Training
 > SOC Analyst Investigation Techniques
 > Cybersecurity Lab Development
-Through projects like this lab, I aim to explore how attackers use psychological manipulation techniques and how security professionals can identify and stop such threats.
+- Through projects like this lab, I aim to explore how attackers use psychological manipulation techniques and how security professionals can identify and stop such threats.
 
-# Contact
+- Contact
 If you have feedback, suggestions, or would like to discuss cybersecurity topics, feel free to connect.
 > GitHub: https://github.com/vishnu026-coder
 > Linkedin: https://www.linkedin.com/in/vishnu-biradar-138abb287/
@@ -249,10 +249,10 @@ If you have feedback, suggestions, or would like to discuss cybersecurity topics
 > Portfolio: www.itzvishnu.bio
 > Blog Website: https://xoin.in
 
-# Support the Project
+- Support the Project
 If you found this project useful for learning about phishing detection and social engineering awareness, consider:
 ⭐ Starring the repository
 Sharing it with other cybersecurity learners
 Providing feedback or suggestions for improvement.
 
-=========================================================================================================================================================================
+============================================================
