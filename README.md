@@ -13,21 +13,21 @@
 
 # Project Highlights
 
-> Built an interactive Social Engineering & Phishing Awareness Lab to demonstrate how attackers manipulate users using psychological techniques such as curiosity, urgency, reward, and FOMO.
+- Built an interactive Social Engineering & Phishing Awareness Lab to demonstrate how attackers manipulate users using psychological techniques such as curiosity, urgency, reward, and FOMO.
 
-> Implemented AI-powered phishing message simulation using OpenAI GPT to demonstrate how attackers can generate convincing phishing messages and how users can recognize suspicious patterns.
+- Implemented AI-powered phishing message simulation using OpenAI GPT to demonstrate how attackers can generate convincing phishing messages and how users can recognize suspicious patterns.
 
-> Integrated Telegram-based user verification using Telegram Bot API to ensure that only real users access the lab environment without requiring traditional signup systems.
+- Integrated Telegram-based user verification using Telegram Bot API to ensure that only real users access the lab environment without requiring traditional signup systems.
 
-> Developed a Phishing Detection & Analysis Module with 25+ investigation tools and structured detection categories including URL analysis, email header analysis, domain intelligence, SSL validation, and IOC identification.
+- Developed a Phishing Detection & Analysis Module with 25+ investigation tools and structured detection categories including URL analysis, email header analysis, domain intelligence, SSL validation, and IOC identification.
 
-> Created a SOC-style detection checklist with clear Do & Don’t guidelines to help users identify suspicious URLs, phishing domains, and manipulated login pages.
+- Created a SOC-style detection checklist with clear Do & Don’t guidelines to help users identify suspicious URLs, phishing domains, and manipulated login pages.
 
-> Implemented SMTP attack awareness simulation to demonstrate how attackers may abuse email infrastructure to distribute phishing messages while highlighting defensive detection techniques.
+- Implemented SMTP attack awareness simulation to demonstrate how attackers may abuse email infrastructure to distribute phishing messages while highlighting defensive detection techniques.
 
-> Designed simulated login pages for multiple platforms to help users recognize phishing page characteristics and visual deception tactics.
+- Designed simulated login pages for multiple platforms to help users recognize phishing page characteristics and visual deception tactics.
 
-> Deployed the platform using Vercel to provide a live interactive learning environment.
+- Deployed the platform using Vercel to provide a live interactive learning environment.
 
 # Project Overview: 
 This project is an educational platform designed to demonstrate how social engineering and phishing attacks works practically. The lab helps users understand the psychological techniques attackers use and teaches how such attacks can be detected and prevented. The platform includes both phishing simulation and Phishing Detection Summary module designed to help users understand how real attacks works and how Security Operations Center (SOC) analysts investigate suspicious emails, URLs, and domains. And Also provides a structured analysis guide with 25+ detection tools and step-by-step investigation techniques.
@@ -226,7 +226,7 @@ This project was developed by Vishnu Biradar, a cybersecurity enthusiast interes
 Through projects like this lab, I aim to explore how attackers use psychological manipulation techniques and how security professionals can identify and stop such threats.
 
   > Contact
-If you have feedback, suggestions, or would like to discuss cybersecurity topics, feel free to connect.
+- If you have feedback, suggestions, or would like to discuss cybersecurity topics, feel free to connect.
 - GitHub: https://github.com/vishnu026-coder
 - Linkedin: https://www.linkedin.com/in/vishnu-biradar-138abb287/
 - social media: https://biolinko.me/Maxz
