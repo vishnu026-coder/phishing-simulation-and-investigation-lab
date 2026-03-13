@@ -5,8 +5,8 @@
 - [Project Overview](#project-overview)
 - [Live Demo](#live-demo)
 - [Architecture Overview](#architecture-overview)
-- [Phishing attack simualtion](#Phishing-attack-simualtion-understanding)
-- [Phishing Detection Guide & Analysis Toolkit](#phishing-detection-summary--analysis-toolkit)
+- [Phishing attack simualtion](#phishing-attack-simualtion)
+- [Phishing Detection Guide & Analysis Toolkit](#phishing-detection-guide--analysis-toolkit)
 - [Security & Ethical Disclaimer](#security--ethical-disclaimer)
 - [About the Author](#about-the-author)
 - [Contact](#contact)
@@ -63,7 +63,8 @@ Tech Stack: This project demonstrates the use of multiple technologies and APIs:
 - SMTP simulation for phishing awareness
 - Frontend deployment via Vercel
 
-Key Learning Goals
+
+Key Learning Goals:
 - This lab helps demonstrate:
 - Social engineering psychology
 - Phishing message creation patterns
@@ -73,7 +74,8 @@ Key Learning Goals
 - AI misuse in phishing campaigns
 - Understanding attacker workflows
 
-  Target Audience
+
+  Target Audience: 
 - This project is useful for:
 - Cybersecurity students
 - SOC analyst learners
@@ -81,15 +83,15 @@ Key Learning Goals
 - Developers interested in phishing detection
 - Anyone learning about social engineering threats
 
-Purpose of the Detection Module:
-> This module is designed to help users:
+
+Purpose of the Detection Module: This module is designed to help users:
 - Understand how phishing attacks are detected
 - Learn basic SOC investigation workflows
 - Explore real-world security analysis tools
 - Identify phishing indicators and red flags
 - The goal is to provide a practical reference guide for phishing detection and analysis.
 
-# Phishing attack simualtion understanding
+# Phishing attack simualtion
 
 1. Social Engineering Technique Simulator
 Demonstrates common manipulation techniques used in phishing attacks:
@@ -232,7 +234,7 @@ My focus areas include:
 - Cybersecurity Lab Development
 Through projects like this lab, I aim to explore how attackers use psychological manipulation techniques and how security professionals can identify and stop such threats.
 
-Contact
+# Contact
 > If you have feedback, suggestions, or would like to discuss cybersecurity topics, feel free to connect.
 - GitHub: https://github.com/vishnu026-coder
 - Linkedin: https://www.linkedin.com/in/vishnu-biradar-138abb287/
