@@ -11,8 +11,6 @@
 - [About the Author](#about-the-author)
 - [Contact](#contact)
 
-============================================================
-
 # Project Highlights
 
 > Built an interactive Social Engineering & Phishing Awareness Lab to demonstrate how attackers manipulate users using psychological techniques such as curiosity, urgency, reward, and FOMO.
@@ -31,13 +29,9 @@
 
 > Deployed the platform using Vercel to provide a live interactive learning environment.
 
-============================================================
-
 # Project Overview: 
 This project is an educational platform designed to demonstrate how social engineering and phishing attacks works practically. The lab helps users understand the psychological techniques attackers use and teaches how such attacks can be detected and prevented. The platform includes both phishing simulation and Phishing Detection Summary module designed to help users understand how real attacks works and how Security Operations Center (SOC) analysts investigate suspicious emails, URLs, and domains. And Also provides a structured analysis guide with 25+ detection tools and step-by-step investigation techniques.
 Thid platform simulates phishing scenarios in a controlled environment to improve cybersecurity awareness and SOC investigation skills.
-
-============================================================
 
 # Live Demo
 //My lab website access: https://practicalabyxoin.vercel.app     
@@ -59,8 +53,6 @@ If a user forgets their password, they can generate a new password using their v
 No personal data or credentials are permanently stored in the platform.
 The verification system is used only to validate legitimate access to the lab.
 This approach keeps the platform simple, privacy-focused, and suitable for an educational cybersecurity lab environment.
-
-============================================================
 
 # Architecture Overview
 
@@ -98,8 +90,6 @@ This module is designed to help users:
 - Identify phishing indicators and red flags
 - The goal is to provide a practical reference guide for phishing detection and analysis.
 
-============================================================
-
 # Phishing attack simualtion understanding
 
 1. Social Engineering Technique Simulator
@@ -114,20 +104,20 @@ Demonstrates common manipulation techniques used in phishing attacks:
 
 2. AI Phishing Message Generator
 The platform includes an AI tool that demonstrates how phishing messages can be generated based on specific social engineering techniques.
-Users can:
-1.Select a social engineering technique
-2.Generate a sample phishing message
-3.Customize the message
-4.Learn why the message may trick users
-5.This feature is designed for awareness training purposes only.
+> Users can:
+- Select a social engineering technique
+- Generate a sample phishing message
+- Customize the message
+- Learn why the message may trick users
+- This feature is designed for awareness training purposes only.
 
 3. Hook and Message Combination System
-Users can select:
-1.Social engineering technique
-2.Message template
-3.Hook scenario
-4.The system demonstrates how attackers combine these elements to craft convincing phishing messages.
-5.This helps users understand how phishing campaigns are structured.
+> Users can select:
+- Social engineering technique
+- Message template
+- Hook scenario
+- The system demonstrates how attackers combine these elements to craft convincing phishing messages.
+- This helps users understand how phishing campaigns are structured.
 
 4. Social Media Simulation Pages
 The lab includes simulated login pages to demonstrate how attackers replicate popular platforms.
@@ -160,8 +150,6 @@ The module demonstrates:
 - Why SMTP misuse is a common phishing technique
 - The purpose of this module is to educate users about how phishing emails are distributed and how to detect them.
 - No real phishing campaigns are executed in the demo environment.
-
-============================================================
 
 # Phishing Detection Guide & Analysis Toolkit
 
@@ -202,7 +190,6 @@ Don't:
 - ✔ facebook.com  ❌ faceb00k.com
 - ✔ login.facebook.com  ❌ facebook.login.evil.com
 
-============================================================
 
 # Security & Ethical Disclaimer
 > This project was created strictly for cybersecurity education and social engineering awareness
@@ -223,10 +210,9 @@ Don't:
 - Any misuse of the concepts demonstrated in this project is strictly discouraged.
 
 > Final Note
-< Understanding how attackers operate is a critical step in building stronger security defenses >
-< This project aims to help students, cybersecurity enthusiasts, and professionals learn how social engineering attacks are structured and how they can be identified and prevented > 
+- Understanding how attackers operate is a critical step in building stronger security defenses 
+- This project aims to help students, cybersecurity enthusiasts, and professionals learn how social engineering attacks are structured and how they can be identified and prevented 
 
-============================================================
 
 # About the Author
 This project was developed by Vishnu Biradar, a cybersecurity enthusiast interested in understanding how cyber attacks work and how they can be detected and prevented.
@@ -241,16 +227,15 @@ This project was developed by Vishnu Biradar, a cybersecurity enthusiast interes
 
 - Contact
 If you have feedback, suggestions, or would like to discuss cybersecurity topics, feel free to connect.
-> GitHub: https://github.com/vishnu026-coder
-> Linkedin: https://www.linkedin.com/in/vishnu-biradar-138abb287/
-> social media: https://biolinko.me/Maxz
-> Portfolio: www.itzvishnu.bio
-> Blog Website: https://xoin.in
+- GitHub: https://github.com/vishnu026-coder
+- Linkedin: https://www.linkedin.com/in/vishnu-biradar-138abb287/
+- social media: https://biolinko.me/Maxz
+- Portfolio: www.itzvishnu.bio
+- Blog Website: https://xoin.in
 
 - Support the Project
 > If you found this project useful for learning about phishing detection and social engineering awareness, consider:
-- ⭐ Starring the repository
+⭐ Starring the repository
 - Sharing it with other cybersecurity learners
 - Providing feedback or suggestions for improvement.
 
-============================================================
