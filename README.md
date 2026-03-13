@@ -40,8 +40,8 @@ Thid platform simulates phishing scenarios in a controlled environment to improv
 ============================================================
 
 # Live Demo
-//website access: https://practicalabyxoin.vercel.app     
-//demo credential: username: @The_Minimum | Psd: @The_MinimuM 
+//My lab website access: https://practicalabyxoin.vercel.app     
+//Use demo credential to access: username: @The_Minimum | Psd: @The_MinimuM 
 
 > Telegram-Based User Verification: 
 The platform integrates the Telegram Bot API to verify real users before allowing access to the lab.
@@ -199,10 +199,8 @@ Don't:
 - Trust domains with look-alike characters
 
 > Example comparisons:
-✔ facebook.com
-❌ faceb00k.com
-✔ login.facebook.com
-❌ facebook.login.evil.com
+- ✔ facebook.com  ❌ faceb00k.com
+- ✔ login.facebook.com  ❌ facebook.login.evil.com
 
 ============================================================
 
@@ -250,9 +248,9 @@ If you have feedback, suggestions, or would like to discuss cybersecurity topics
 > Blog Website: https://xoin.in
 
 - Support the Project
-If you found this project useful for learning about phishing detection and social engineering awareness, consider:
-⭐ Starring the repository
-Sharing it with other cybersecurity learners
-Providing feedback or suggestions for improvement.
+> If you found this project useful for learning about phishing detection and social engineering awareness, consider:
+- ⭐ Starring the repository
+- Sharing it with other cybersecurity learners
+- Providing feedback or suggestions for improvement.
 
 ============================================================
