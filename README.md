@@ -195,13 +195,14 @@ Don't:
 - This project was created strictly for cybersecurity education and social engineering awareness
 - The platform demonstrates how phishing and social engineering techniques work so that users can better understand how attackers operate and how such attacks can be detected and prevented.
 - All simulations in this lab are performed in a controlled environment.
-> The project does not support or encourage illegal activities, and the platform is intended only for:
+  
+The project does not support or encourage illegal activities, and the platform is intended only for:
 - Security awareness training
 - Cybersecurity research
 - Educational demonstrations
 - Features such as message generation, SMTP simulation, and phishing page examples are implemented only to help users recognize and defend against real-world phishing attacks.
 
-> Responsible Use Notice:
+Responsible Use Notice:
 - Users of this platform are expected to use it responsibly and ethically.
 - The knowledge provided in this lab should only be used to:
 - Improve cybersecurity awareness
@@ -209,7 +210,7 @@ Don't:
 - Strengthen defenses against phishing attacks
 - Any misuse of the concepts demonstrated in this project is strictly discouraged.
 
-> Final Note
+Final Note
 - Understanding how attackers operate is a critical step in building stronger security defenses 
 - This project aims to help students, cybersecurity enthusiasts, and professionals learn how social engineering attacks are structured and how they can be identified and prevented 
 
@@ -217,7 +218,7 @@ Don't:
 # About the Author
 This project was developed by Vishnu Biradar, a cybersecurity enthusiast interested in understanding how cyber attacks work and how they can be detected and prevented.
 
-> My focus areas include:
+My focus areas include:
 - Social Engineering Analysis
 - Phishing Detection
 - Security Awareness Training
@@ -225,8 +226,8 @@ This project was developed by Vishnu Biradar, a cybersecurity enthusiast interes
 - Cybersecurity Lab Development
 Through projects like this lab, I aim to explore how attackers use psychological manipulation techniques and how security professionals can identify and stop such threats.
 
-  > Contact
-- If you have feedback, suggestions, or would like to discuss cybersecurity topics, feel free to connect.
+Contact
+> If you have feedback, suggestions, or would like to discuss cybersecurity topics, feel free to connect.
 - GitHub: https://github.com/vishnu026-coder
 - Linkedin: https://www.linkedin.com/in/vishnu-biradar-138abb287/
 - social media: https://biolinko.me/Maxz
