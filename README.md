@@ -154,13 +154,13 @@ The module demonstrates:
 # Phishing Detection Guide & Analysis Toolkit
 
 1. The detection module covers multiple areas used in phishing investigations:
-> URL Analysis – Inspect suspicious links before interacting with them
-> Email Header Analysis – Verify sender authenticity and mail routing
-> Purpose & Intent Analysis – Identify psychological manipulation techniques
-> IP & Domain Intelligence – Trace domain reputation and origin
-> HTTP Headers & SSL Validation – Verify website authenticity
-> IOC & Red Flags Detection – Identify indicators of compromise
-> These categories help users understand how phishing attacks can be identified and analyzed systematically.
+- URL Analysis = Inspect suspicious links before interacting with them
+- Email Header Analysis = Verify sender authenticity and mail routing
+- Purpose & Intent Analysis = Identify psychological manipulation techniques
+- IP & Domain Intelligence = Trace domain reputation and origin
+- HTTP Headers & SSL Validation = Verify website authenticity
+- IOC & Red Flags Detection = Identify indicators of compromise
+These categories help users understand how phishing attacks can be identified and analyzed systematically.
 
 2. Recommended Phishing Analysis Tools
 The platform includes direct links to commonly used investigation tools that analysts use during phishing analysis.
@@ -192,9 +192,9 @@ Don't:
 
 
 # Security & Ethical Disclaimer
-> This project was created strictly for cybersecurity education and social engineering awareness
-> The platform demonstrates how phishing and social engineering techniques work so that users can better understand how attackers operate and how such attacks can be detected and prevented.
-> All simulations in this lab are performed in a controlled environment.
+- This project was created strictly for cybersecurity education and social engineering awareness
+- The platform demonstrates how phishing and social engineering techniques work so that users can better understand how attackers operate and how such attacks can be detected and prevented.
+- All simulations in this lab are performed in a controlled environment.
 > The project does not support or encourage illegal activities, and the platform is intended only for:
 - Security awareness training
 - Cybersecurity research
@@ -217,15 +217,15 @@ Don't:
 # About the Author
 This project was developed by Vishnu Biradar, a cybersecurity enthusiast interested in understanding how cyber attacks work and how they can be detected and prevented.
 
-- My focus areas include:
-> Social Engineering Analysis
-> Phishing Detection
-> Security Awareness Training
-> SOC Analyst Investigation Techniques
-> Cybersecurity Lab Development
-- Through projects like this lab, I aim to explore how attackers use psychological manipulation techniques and how security professionals can identify and stop such threats.
+> My focus areas include:
+- Social Engineering Analysis
+- Phishing Detection
+- Security Awareness Training
+- SOC Analyst Investigation Techniques
+- Cybersecurity Lab Development
+Through projects like this lab, I aim to explore how attackers use psychological manipulation techniques and how security professionals can identify and stop such threats.
 
-- Contact
+  > Contact
 If you have feedback, suggestions, or would like to discuss cybersecurity topics, feel free to connect.
 - GitHub: https://github.com/vishnu026-coder
 - Linkedin: https://www.linkedin.com/in/vishnu-biradar-138abb287/
@@ -233,8 +233,8 @@ If you have feedback, suggestions, or would like to discuss cybersecurity topics
 - Portfolio: www.itzvishnu.bio
 - Blog Website: https://xoin.in
 
-- Support the Project
-> If you found this project useful for learning about phishing detection and social engineering awareness, consider:
+> Support the Project
+- If you found this project useful for learning about phishing detection and social engineering awareness, consider:
 ⭐ Starring the repository
 - Sharing it with other cybersecurity learners
 - Providing feedback or suggestions for improvement.
