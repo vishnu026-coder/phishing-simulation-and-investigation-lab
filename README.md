@@ -1,11 +1,17 @@
 # Social Engineering Awareness & Phishing Simulation Lab
 
-[Project Highlights](#project-highlights)
+## Table of Contents
+- [Project Highlights](#project-highlights)
+- [Project Overview](#project-overview)
+- [Live Demo](#live-demo)
+- [Architecture Overview](#architecture-overview)
+- [Phishing attack simualtion](#Phishing-attack-simualtion-understanding)
+- [Phishing Detection Guide & Analysis Toolkit](#phishing-detection-summary--analysis-toolkit)
+- [Security & Ethical Disclaimer](#security--ethical-disclaimer)
+- [About the Author](#about-the-author)
+- [Contact](#contact)
 
-
-Project Overview: 
-This project is an educational platform designed to demonstrate how social engineering and phishing attacks works practically. The lab helps users understand the psychological techniques attackers use and teaches how such attacks can be detected and prevented. The platform includes both phishing simulation and Phishing Detection Summary module designed to help users understand how real attacks works and how Security Operations Center (SOC) analysts investigate suspicious emails, URLs, and domains. And Also provides a structured analysis guide with 25+ detection tools and step-by-step investigation techniques.
-Thid platform simulates phishing scenarios in a controlled environment to improve cybersecurity awareness and SOC investigation skills.
+=========================================================================================================================================================================
 
 # Project Highlights
 
@@ -27,7 +33,15 @@ Thid platform simulates phishing scenarios in a controlled environment to improv
 
 =========================================================================================================================================================================
 
-< Live Demo: https://practicalabyxoin.vercel.app     //demo access: username: @The_Minimum | Psd: @The_MinimuM >
+# Project Overview: 
+This project is an educational platform designed to demonstrate how social engineering and phishing attacks works practically. The lab helps users understand the psychological techniques attackers use and teaches how such attacks can be detected and prevented. The platform includes both phishing simulation and Phishing Detection Summary module designed to help users understand how real attacks works and how Security Operations Center (SOC) analysts investigate suspicious emails, URLs, and domains. And Also provides a structured analysis guide with 25+ detection tools and step-by-step investigation techniques.
+Thid platform simulates phishing scenarios in a controlled environment to improve cybersecurity awareness and SOC investigation skills.
+
+=========================================================================================================================================================================
+
+# Live Demo
+//website access: https://practicalabyxoin.vercel.app     
+//demo credential: username: @The_Minimum | Psd: @The_MinimuM 
 
 # Telegram-Based User Verification 
 The platform integrates the Telegram Bot API to verify real users before allowing access to the lab.
@@ -48,7 +62,9 @@ This approach keeps the platform simple, privacy-focused, and suitable for an ed
 
 =========================================================================================================================================================================
 
-# Tech Stack:
+# Architecture Overview
+
+> Tech Stack:
 This project demonstrates the use of multiple technologies and APIs:
 - HTML, CSS, JS, React For Development
 - AI message generation using OpenAI GPT
@@ -56,7 +72,7 @@ This project demonstrates the use of multiple technologies and APIs:
 - SMTP simulation for phishing awareness
 - Frontend deployment via Vercel
 
-# Key Learning Goals
+> Key Learning Goals
 - This lab helps demonstrate:
 - Social engineering psychology
 - Phishing message creation patterns
@@ -66,7 +82,7 @@ This project demonstrates the use of multiple technologies and APIs:
 - AI misuse in phishing campaigns
 - Understanding attacker workflows
   
-# Target Audience
+> Target Audience
 - This project is useful for:
 - Cybersecurity students
 - SOC analyst learners
@@ -74,7 +90,7 @@ This project demonstrates the use of multiple technologies and APIs:
 - Developers interested in phishing detection
 - Anyone learning about social engineering threats
 
-# Purpose of the Detection Module
+> Purpose of the Detection Module
 This module is designed to help users:
 - Understand how phishing attacks are detected
 - Learn basic SOC investigation workflows
@@ -84,7 +100,7 @@ This module is designed to help users:
 
 =========================================================================================================================================================================
 
-* Features:
+# Phishing attack simualtion understanding
 
 1. Social Engineering Technique Simulator
 Demonstrates common manipulation techniques used in phishing attacks:
@@ -145,8 +161,11 @@ The module demonstrates:
 - The purpose of this module is to educate users about how phishing emails are distributed and how to detect them.
 # No real phishing campaigns are executed in the demo environment.
 
-7. Detection Categories
-The detection module covers multiple areas used in phishing investigations:
+=========================================================================================================================================================================
+
+# Phishing Detection Guide & Analysis Toolkit
+
+1. The detection module covers multiple areas used in phishing investigations:
 > URL Analysis – Inspect suspicious links before interacting with them
 > Email Header Analysis – Verify sender authenticity and mail routing
 > Purpose & Intent Analysis – Identify psychological manipulation techniques
@@ -155,7 +174,17 @@ The detection module covers multiple areas used in phishing investigations:
 > IOC & Red Flags Detection – Identify indicators of compromise
 # These categories help users understand how phishing attacks can be identified and analyzed systematically.
 
-8. Detection Checklist (Do & Don't Guide)
+2. Recommended Phishing Analysis Tools
+The platform includes direct links to commonly used investigation tools that analysts use during phishing analysis.
+> Examples include:
+- VirusTotal – URL and file reputation scanning
+- URLScan.io – Analyze website behavior and resources
+- Google Safe Browsing – Check if URLs are flagged as malicious
+- PhishTank – Community-verified phishing reports
+- ANY.RUN – Dynamic analysis environment
+# More than 25 investigation tools are included to help users explore different phishing detection techniques
+
+3. Detection Checklist (Do & Don't Guide)
 Each category includes a structured checklist to help users quickly identify suspicious behavior.
 > Examples include: URL Analysis
 Do:         
@@ -175,26 +204,9 @@ Don't:
 ✔ login.facebook.com
 ❌ facebook.login.evil.com
 
-9. Recommended Phishing Analysis Tools
-The platform includes direct links to commonly used investigation tools that analysts use during phishing analysis.
-> Examples include:
-- VirusTotal – URL and file reputation scanning
-- URLScan.io – Analyze website behavior and resources
-- Google Safe Browsing – Check if URLs are flagged as malicious
-- PhishTank – Community-verified phishing reports
-- ANY.RUN – Dynamic analysis environment
-# More than 25 investigation tools are included to help users explore different phishing detection techniques.
-
-10. Phishing Awareness Education
-The platform also explains:
-- How phishing emails are crafted
-- Psychological manipulation tactics
-- Warning signs of phishing
-- How users can protect themselve
-
 =========================================================================================================================================================================
 
-# Security & Ethical Disclaimer:
+# Security & Ethical Disclaimer
 > This project was created strictly for cybersecurity education and social engineering awareness
 > The platform demonstrates how phishing and social engineering techniques work so that users can better understand how attackers operate and how such attacks can be detected and prevented.
 > All simulations in this lab are performed in a controlled environment.
@@ -243,4 +255,4 @@ If you found this project useful for learning about phishing detection and socia
 Sharing it with other cybersecurity learners
 Providing feedback or suggestions for improvement.
 
-
+=========================================================================================================================================================================
