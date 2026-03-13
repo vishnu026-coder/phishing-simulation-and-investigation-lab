@@ -82,8 +82,8 @@ This project demonstrates the use of multiple technologies and APIs:
 - Developers interested in phishing detection
 - Anyone learning about social engineering threats
 
-> Purpose of the Detection Module
-This module is designed to help users:
+Purpose of the Detection Module:
+> This module is designed to help users:
 - Understand how phishing attacks are detected
 - Learn basic SOC investigation workflows
 - Explore real-world security analysis tools
@@ -104,7 +104,8 @@ Demonstrates common manipulation techniques used in phishing attacks:
 
 2. AI Phishing Message Generator
 The platform includes an AI tool that demonstrates how phishing messages can be generated based on specific social engineering techniques.
-> Users can:
+
+Users can:
 - Select a social engineering technique
 - Generate a sample phishing message
 - Customize the message
@@ -112,7 +113,8 @@ The platform includes an AI tool that demonstrates how phishing messages can be 
 - This feature is designed for awareness training purposes only.
 
 3. Hook and Message Combination System
-> Users can select:
+
+Users can select:
 - Social engineering technique
 - Message template
 - Hook scenario
@@ -121,6 +123,7 @@ The platform includes an AI tool that demonstrates how phishing messages can be 
 
 4. Social Media Simulation Pages
 The lab includes simulated login pages to demonstrate how attackers replicate popular platforms.
+
 Examples include:
 - Instagram
 - Facebook
@@ -135,6 +138,7 @@ Examples include:
 
 5. AI Phishing Message Awareness Tool
 The platform integrates the OpenAI GPT API to demonstrate how attackers may use AI to generate convincing phishing messages.
+
 Users can:
 - Select a social engineering technique
 - Generate example phishing messages
@@ -144,6 +148,7 @@ Users can:
 
 6. SMTP Phishing Simulation
 The lab includes a simulated SMTP demonstration to explain how attackers may abuse email infrastructure to distribute phishing messages.
+
 The module demonstrates:
 - How SMTP servers are used to send emails
 - How attackers may attempt to disguise email sources
@@ -164,7 +169,8 @@ These categories help users understand how phishing attacks can be identified an
 
 2. Recommended Phishing Analysis Tools
 The platform includes direct links to commonly used investigation tools that analysts use during phishing analysis.
-> Examples include:
+
+Examples include:
 - VirusTotal – URL and file reputation scanning
 - URLScan.io – Analyze website behavior and resources
 - Google Safe Browsing – Check if URLs are flagged as malicious
@@ -174,7 +180,8 @@ The platform includes direct links to commonly used investigation tools that ana
 
 3. Detection Checklist (Do & Don't Guide)
 Each category includes a structured checklist to help users quickly identify suspicious behavior.
-> Examples include: URL Analysis
+
+Examples include: URL Analysis
 Do:         
 - Verify the domain spelling
 - Check HTTPS certificate validity
@@ -186,7 +193,7 @@ Don't:
 - Click links with unusual redirects
 - Trust domains with look-alike characters
 
-> Example comparisons:
+Example comparisons:
 - ✔ facebook.com  ❌ faceb00k.com
 - ✔ login.facebook.com  ❌ facebook.login.evil.com
 
@@ -234,7 +241,7 @@ Contact
 - Portfolio: www.itzvishnu.bio
 - Blog Website: https://xoin.in
 
-> Support the Project
+Support the Project
 - If you found this project useful for learning about phishing detection and social engineering awareness, consider:
 ⭐ Starring the repository
 - Sharing it with other cybersecurity learners
