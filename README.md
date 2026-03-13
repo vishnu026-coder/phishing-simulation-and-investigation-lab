@@ -56,15 +56,14 @@ This approach keeps the platform simple, privacy-focused, and suitable for an ed
 
 # Architecture Overview
 
-> Tech Stack:
-This project demonstrates the use of multiple technologies and APIs:
+Tech Stack: This project demonstrates the use of multiple technologies and APIs:
 - HTML, CSS, JS, React For Development
 - AI message generation using OpenAI GPT
 - User verification using Telegram Bot API
 - SMTP simulation for phishing awareness
 - Frontend deployment via Vercel
 
-> Key Learning Goals
+Key Learning Goals
 - This lab helps demonstrate:
 - Social engineering psychology
 - Phishing message creation patterns
@@ -73,8 +72,8 @@ This project demonstrates the use of multiple technologies and APIs:
 - Detection guide with tools
 - AI misuse in phishing campaigns
 - Understanding attacker workflows
-  
-> Target Audience
+
+  Target Audience
 - This project is useful for:
 - Cybersecurity students
 - SOC analyst learners
