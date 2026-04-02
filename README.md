@@ -35,7 +35,7 @@ Thid platform simulates phishing scenarios in a controlled environment to improv
 
 # Live Demo
 //My lab website access: https://practicalabyxoin.vercel.app     
-//Use demo credential to access: username: @The_Minimum | Psd: @The_MinimuM 
+//Use demo credential to access: username: xoinlab | Psd: xoindemo 
 
 > Telegram-Based User Verification: 
 The platform integrates the Telegram Bot API to verify real users before allowing access to the lab.
